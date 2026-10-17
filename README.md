@@ -161,6 +161,13 @@ The repository also uses GitHub Actions to automatically verify
 compilation. The verification status is displayed at the top of this
 README.
 
+## Authors
+
+- Konstantinos Fotopoulos
+- Michael Helcig
+- Karl Deck
+- Jannis Alsbach
+
 ## Citation
 
 If you use this formalization, please cite the accompanying paper:
