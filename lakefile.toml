@@ -1,0 +1,11 @@
+name = "heavy-ball-formalization"
+version = "1.0.0"
+
+defaultTargets = ["HeavyBall"]
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+
+[[lean_lib]]
+name = "HeavyBall"
