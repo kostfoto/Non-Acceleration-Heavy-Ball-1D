@@ -1,0 +1,17 @@
+# Lake build artifacts and downloaded dependencies
+.lake/
+
+# Lean editor state
+*.leanserver
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# OS files
+.DS_Store
