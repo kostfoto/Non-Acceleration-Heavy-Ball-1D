@@ -1,0 +1,25 @@
+name: Lean verification
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Build Lean formalization
+        uses: leanprover/lean-action@v1
+        with:
+          build: true
+          test: false
+          axiom-audit: true
+          axiom-audit-root: HeavyBall
+
+      - name: Check Lean source and print axioms
+        run: lake env lean HeavyBall.lean
