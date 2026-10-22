@@ -1,6 +1,7 @@
 # Lean formalization of *Non-acceleration of the heavy-ball method in 1D*
 
 [![Lean verification](https://github.com/kostfoto/Heavy-ball_1d-non-acceleration/actions/workflows/lean.yml/badge.svg)](https://github.com/kostfoto/Heavy-ball_1d-non-acceleration/actions/workflows/lean.yml)
+[![arXiv](https://img.shields.io/badge/arXiv-2610.25104-b31b1b.svg)](https://arxiv.org/abs/2610.25104)
 
 This repository contains a Lean 4 and Mathlib formalization accompanying
 the paper *Non-acceleration of the heavy-ball method in 1D*.

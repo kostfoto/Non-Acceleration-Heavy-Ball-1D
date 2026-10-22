@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this formalization, please cite the accompanying paper."
+title: "Lean formalization of Non-Acceleration of the Heavy-Ball Method in 1D"
+type: software
+authors:
+  - family-names: Fotopoulos
+    given-names: Konstantinos
+  - family-names: Helcig
+    given-names: Michael
+  - family-names: Deck
+    given-names: Karl
+  - family-names: Alsbach
+    given-names: Jannis
+repository-code: "https://github.com/kostfoto/Heavy-ball_1d-non-acceleration"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Non-Acceleration of the Heavy-Ball Method in 1D"
+  authors:
+    - family-names: Fotopoulos
+      given-names: Konstantinos
+    - family-names: Helcig
+      given-names: Michael
+    - family-names: Deck
+      given-names: Karl
+    - family-names: Alsbach
+      given-names: Jannis
+  journal: "arXiv preprint arXiv:2610.25104"
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:2610.25104"
+      description: arXiv identifier
+  url: "https://arxiv.org/abs/2610.25104"
