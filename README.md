@@ -172,9 +172,15 @@ README.
 
 If you use this formalization, please cite the accompanying paper:
 
-*Non-acceleration of the heavy-ball method in 1D.*
+```
+@article{fotopoulos2026non,
+  title={Non-Acceleration of the Heavy-Ball Method in 1D},
+  author={Fotopoulos, Konstantinos and Helcig, Michael and Deck, Karl and Alsbach, Jannis},
+  journal={arXiv preprint arXiv:2610.25104},
+  year={2026}
+}
+```
 
-[Full bibliographic reference to be added.]
 
 ## License
 
